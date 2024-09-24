@@ -15,7 +15,6 @@ from Images.vision import *
 
 
 
-
 exit_event = threading.Event()
 
 
